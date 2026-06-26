@@ -1,5 +1,5 @@
 <div align='center'>
-  <img alt='Roplica' src='https://raw.githubusercontent.com/argon-rbx/argon-assets/main/argon_banner.png'>
+  <img alt='Roplica' src='https://raw.githubusercontent.com/Roplica/.github/main/RoplicaBanner.png'>
   <b>Fork of Argon. Full featured tool for Roblox development.</b>
 </div>
 
