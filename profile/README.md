@@ -1,7 +1,8 @@
 <div align='center'>
   <img alt='Roplica' src='https://raw.githubusercontent.com/Roplica/.github/main/RoplicaBanner.png'>
-  <b>Fork of [Argon](https://github.com/argon-rbx). Full featured tool for Roblox development.</b>
 </div>
+
+Fork of [Argon](https://github.com/argon-rbx). Full featured tool for Roblox development
 
 # Visit [argon.wiki](https://argon.wiki/) to learn more!
 
